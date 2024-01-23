@@ -1,0 +1,12 @@
+=== Contemporary (widespread)
+- plasma bayonets: commonly used as a melee attachment on powered rifles to burn through armoured walls/bulkheads and occasionally enemies. Also, plasma-edged blades and trench weapons!
+- crystal balls: omnidirectional spherical projectors capable of creating surface-bound holograms in the eyeballs of people who look at them.
+
+Powergeneration:
+- fusion reactors
+- giant solar panel ships beaming power to the rest of the fleet
+
+[hypothetical (check if possible)]: Subspace Fluctuation Harvesters
+Especially powerful in regions dimensionally adjacent to heavily disturbed subspace, these harness subspace fluctuations through modified, high-density quantum link matrices to generate light and electricity. Resembling large, gridded boxes, they are a reliable - if inconsistent - source of power in nearly any environment, including deep space and similarly energy-poor locations.
+
+=== League of Banners
