@@ -34,7 +34,7 @@ The main turret is fitted with a twin-linked 46/62mm resonant discharge cannon, 
 Cc04s can be manufactured in undeveloped or poorly-supplied regions with minimal reduction in quality; localised variants will mainly consist improvements in subsystems, ammunition, and cyber-integration. A median industrialised planet in ranked sectors 1-10 will be able to sustainably export ~1100 Cc04s annually per million registered workers under Plan F04 mobilisation conditions [Wartime Emergency - free reallocable production metrics].
 
 
-note: he for held, R for regular, Aa4302 for artillery illuminant, 4 feet, body, linkage, system.
+note: he for held, R for regular, Ai4302 for artillery illuminant, 4 feet, body, linkage, system.
 [Kneeling before the light, it stood to let out a scream.]
 
 .  [ heR.Ai4302 'Mule' ]  .
@@ -58,7 +58,7 @@ note: s for subspace, O for opthal, M4 for marine, four feet.
 DEPARTMENTS -- YDS.9183 [Director]
 PURPOSE -- CLASSIFIED
 PRIMARY USAGE -- CLASSIFIED
-REQUIREMENTS: Match or exceed unit half-life of 8 hours in type E hostile subspace conditions as defined by Vesselborne Emergencies Regulation SBS655 (0662 DT correction), resist disruption of or actively maintain current velocity over distance of 500 metres with 2-sigma radius 8 metres in type E hostile subspace conditions, possess countermeasures against ||[Accessorate key linked] AEGIS anomalous influence associated with unidentified nanoresponsive elements||, [access level YD.02B and above - read MSG 001].
+REQUIREMENTS: Match or exceed unit half-life of 8 hours in type E hostile subspace conditions as defined by Vesselborne Emergencies Regulation SBS655 (0662 DT correction), resist disruption of or actively maintain current velocity over distance of 500 metres with radius 8 metres (2 st.dev) in type E hostile subspace conditions, possess countermeasures against ||[Accessorate key linked] AEGIS anomalous influence associated with unidentified nanoresponsive elements||, [access level YD.02B and above - read MSG 001].
 DESCRIPTION: Inspired by the hellbound Earthmovers from Ultrakill.
 
 
